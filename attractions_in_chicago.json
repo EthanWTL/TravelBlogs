@@ -1,0 +1,1036 @@
+{
+    "html_attributions": [],
+    "next_page_token": "AdCG2DNLxEYstB5WDy4d7JzbviV1RkBMrsA-fngYjLl8Bl9xKUjjyqUPl6yDyakfyQXJKBkJdLwFtiKJVGvxH0TMgIPq1mURR7ADC7Pag-rZBuSObi85JOnLwap_e8POCBSqQ-VJWe7hdnpQEB_o1THyZkdDGsS7tzZkTHcI8XOWFbcIcUh2RpLBFaQRDaQqyCp2k8tgGUZo5JjpcxondQmdnVj6qNHzj4N43U7vbsPxjPhUtfmABO8M304rAF8BnrzZPwfpQJECSRq8PBqQ__h1aD3lmpSpVoQhqZ6wOFyPPgHsBJhVwSi-eR5cwchbU9PG-pcgQqYa9WpK5tk6Nl64deko3bD5UMVB8E7-5v2RYgJLszT_bt9Jp9M2bSurxW8W093ap0ZuETEXHCLFqOMCgzBJ2H_pTyFiFR170T6yhYfDWrtC1xkNqL8AGjNAM4_gtUSlZjZTj8CGxlpCtonrux6WZLb0svgRE8Wj61P0aVcbrV1JPLn2-6WgaGksQ0xWPvBd8MCbIGXX1_cStPO_vXicLmIcC6KWh4dNaoE4i_51UwHDjSBIloXfE_lYlp4y8NlS5GBLHlUEUSRjhL96ammkH9eEWTXOvobd7Xskh6ThH-IqYXErWr8k_O4z2Qi6eAGEQzbNHZsGkL60Bjj1aK0tkot7",
+    "results": [
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.8826671,
+                    "lng": -87.62376259999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.88401243029149,
+                        "lng": -87.62263701970849
+                    },
+                    "southwest": {
+                        "lat": 41.8813144697085,
+                        "lng": -87.6253349802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "McCormick Tribune Plaza",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112535112147394082983\">Abdallah H.</a>"
+                    ],
+                    "photo_reference": "AdCG2DNasl6X6JOOp3qdaMYG7o1GKrxiAnK3I-Wve9q9HwRAOBZClKmZy6t-a1gEKYqsc5jTBJ70GiZI0Du9XtpMfJIHbbQ9qqWuo6BLLdWeSXBmjfD2VHeZdJuCwk2o7EZCVIQpckkcF6fa4GRU8y32gAuo5MPZqA-HI3an1WOszFBg-24l",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJD9Dsz6UsDogRu-9zC1mr2o8",
+            "plus_code": {
+                "compound_code": "V9MG+3F Chicago, IL, USA",
+                "global_code": "86HJV9MG+3F"
+            },
+            "rating": 4.5,
+            "reference": "ChIJD9Dsz6UsDogRu-9zC1mr2o8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 332,
+            "vicinity": "1 North Michigan Avenue, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.87579439999999,
+                    "lng": -87.6189483
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.8771675802915,
+                        "lng": -87.61572595
+                    },
+                    "southwest": {
+                        "lat": 41.8744696197085,
+                        "lng": -87.62224295000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Clarence F. Buckingham Memorial Fountain",
+            "photos": [
+                {
+                    "height": 3000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111540582588460875312\">Lynsey F.</a>"
+                    ],
+                    "photo_reference": "AdCG2DO5F_olo_5zWTtidA41qN7tJeGFwmxBh3T7UV0M8mfV2_jS9YF8N84bpdqjsMh4rol7bp2yjwhY7UTl_jyfY9LBbCb9af59syJ6GK79CwEEZRLnuSiWLJbKAD5trf4_6LajEnkzujMtjgZ-8iXyjmW6GZYX-gzo4X_PxrEbJZpqJzt1",
+                    "width": 4000
+                }
+            ],
+            "place_id": "ChIJh479BaAsDogRWa7hmywCQCQ",
+            "plus_code": {
+                "compound_code": "V9GJ+8C Chicago, IL, USA",
+                "global_code": "86HJV9GJ+8C"
+            },
+            "rating": 4.7,
+            "reference": "ChIJh479BaAsDogRWa7hmywCQCQ",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15561,
+            "vicinity": "301 South Columbus Drive, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.88918859999999,
+                    "lng": -87.6181508
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.89040403029149,
+                        "lng": -87.61670646970849
+                    },
+                    "southwest": {
+                        "lat": 41.88770606970849,
+                        "lng": -87.6194044302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Nicholas J. Melas Centennial Fountain",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/117271332861625823653\">Laura Bastidas</a>"
+                    ],
+                    "photo_reference": "AdCG2DPn9r-4kvxCWXlbf9UnEUo-m_AIMbcH7LbKv5R5k_QN_9lVyWHKo4quWHt2svQIKOHA1uYrk91t9LcEJkTBYHqb3sce5Q-pGm_tW9X2TAn0Ty-hkCSmRaQEHk4Mbqfa_eL8Sn4_cMJvykSrxAMQEqKrKYlai-2SAOL1jRKsCt5aif2b",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJjdRoFFYrDogRz2dolVQVQ0c",
+            "plus_code": {
+                "compound_code": "V9QJ+MP Chicago, IL, USA",
+                "global_code": "86HJV9QJ+MP"
+            },
+            "rating": 4.6,
+            "reference": "ChIJjdRoFFYrDogRz2dolVQVQ0c",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 99,
+            "vicinity": "400 North McClurg Court, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.891408,
+                    "lng": -87.60914400000001
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.89298008029149,
+                        "lng": -87.6081324197085
+                    },
+                    "southwest": {
+                        "lat": 41.89028211970849,
+                        "lng": -87.61083038029152
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Chicago Children's Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 496,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/103744159090755055337\">Cassius Wilde</a>"
+                    ],
+                    "photo_reference": "AdCG2DMng-F6hvqzNxzefPpSDiMiR1kZOTNEV3TxmcgV1haC_b5o4fECMjdJKiKOdl96-qCGpMawGpZy34r2YXjJP8y8i6JinydqDi05E6v1mrhOKWnDh-rybpdCMR7jiZh3KPNy5Z1W5AFalLebkOHJqHPLFDkyKfKz3CsSFRFVAGmjy0Tb",
+                    "width": 750
+                }
+            ],
+            "place_id": "ChIJW23RRia0D4gRlL8HDSx0fLA",
+            "plus_code": {
+                "compound_code": "V9RR+H8 Chicago, IL, USA",
+                "global_code": "86HJV9RR+H8"
+            },
+            "price_level": 3,
+            "rating": 4.6,
+            "reference": "ChIJW23RRia0D4gRlL8HDSx0fLA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 6284,
+            "vicinity": "700 East Grand Avenue, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.9102904,
+                    "lng": -87.62662139999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.9116346302915,
+                        "lng": -87.6250734697085
+                    },
+                    "southwest": {
+                        "lat": 41.9089366697085,
+                        "lng": -87.6277714302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "International Museum of Surgical Science",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 400,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/118086758138566253575\">International Museum of Surgical Science</a>"
+                    ],
+                    "photo_reference": "AdCG2DPfTEZtxQdycbXvfvOrafxkEbnPBvl-s0BOla40d3tXxKbWFGPdO5qqHhZDq6U93R8uexHX-OqQBRqajNkycsmvIGkKIxeH31zxiVQOhm0hgJRkxncF86mcU_-9pUV2Rl1IqGRiUZOhb6U0HUjRmQ_hGWoOuudJJ1-pwnLiVtiJ9dxO",
+                    "width": 500
+                }
+            ],
+            "place_id": "ChIJkRt1g1zTD4gR02niC58oU1c",
+            "plus_code": {
+                "compound_code": "W96F+49 Chicago, IL, USA",
+                "global_code": "86HJW96F+49"
+            },
+            "rating": 4.5,
+            "reference": "ChIJkRt1g1zTD4gR02niC58oU1c",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1292,
+            "vicinity": "1524 North Lake Shore Drive, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.900043,
+                    "lng": -87.630617
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.90126923029149,
+                        "lng": -87.6292572697085
+                    },
+                    "southwest": {
+                        "lat": 41.89857126970849,
+                        "lng": -87.63195523029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/civic_building-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/civic-bldg_pinlet",
+            "name": "Newberry Library",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1408,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/109524662676909886612\">Newberry Library</a>"
+                    ],
+                    "photo_reference": "AdCG2DNMcHCOuCtSUd7p2CQ7tmfWtUDyZlC9_VPrgpCdvXC8Ywtzy1Mq8VaJDTM3Dj2TkFHhRdjnnhVRJEpBm1NiCnVe0DsxF1gLjzxcVDOgvrlBzkeJqvXcq9D2BBpM6161Stsw1OWqAW3YPqX6Krln58bYTqinVYiVcq_qHVzNAjkTOdhh",
+                    "width": 2500
+                }
+            ],
+            "place_id": "ChIJqSu41k3TD4gRmABKvdfKz94",
+            "plus_code": {
+                "compound_code": "W929+2Q Chicago, IL, USA",
+                "global_code": "86HJW929+2Q"
+            },
+            "rating": 4.6,
+            "reference": "ChIJqSu41k3TD4gRmABKvdfKz94",
+            "scope": "GOOGLE",
+            "types": [
+                "library",
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 152,
+            "vicinity": "60 West Walton Street, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.7898178,
+                    "lng": -87.5959445
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.7910652802915,
+                        "lng": -87.5945007197085
+                    },
+                    "southwest": {
+                        "lat": 41.7883673197085,
+                        "lng": -87.59719868029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Frederick C. Robie House",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2725,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/116274304678682015710\">Rich</a>"
+                    ],
+                    "photo_reference": "AdCG2DPRfzMe0VTNY-bWzRZPqPbpou2ui28WSXsCyXAdCvEbrodSK6KAr5UsmF_IsicPq2Pp1YQdms90GA96gE6Zkm7V_viNCInAm0xCfLCSJH2TYh1XoVZcJX32WPc6YBGDCGnrVdzzgagGO8JsKFxCiYQ7_f_D7yQrfnBDN_Yb-V1rWTCA",
+                    "width": 4088
+                }
+            ],
+            "place_id": "ChIJUauIhBYpDogRO5eZR9KA1pM",
+            "plus_code": {
+                "compound_code": "QCQ3+WJ Chicago, IL, USA",
+                "global_code": "86HJQCQ3+WJ"
+            },
+            "rating": 4.7,
+            "reference": "ChIJUauIhBYpDogRO5eZR9KA1pM",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1148,
+            "vicinity": "5757 South Woodlawn Avenue, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.8989917,
+                    "lng": -87.624501
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.9001339802915,
+                        "lng": -87.6234876697085
+                    },
+                    "southwest": {
+                        "lat": 41.8974360197085,
+                        "lng": -87.62618563029152
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+            "name": "Fourth Presbyterian Church",
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/112498332838308140548\">Feryal Alayont</a>"
+                    ],
+                    "photo_reference": "AdCG2DPmBuGjNsXi-T8u2XMXpL2aToMrHE_Q0YP0VXYeZiiDT69_dyvfn_ua_WsRFBi6gFQVS1hlYV5sMBQfSJlI4i6RK0YEkDrH2oh24AGXL94lJkd3Md2G1XRNR4KJgBf877ClLoBViaR1sF7SkSarKIwcsUswa-l82VMRolYNXP1KJaXS",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJq7TXl1PTD4gRMrqUy30hMMo",
+            "plus_code": {
+                "compound_code": "V9XG+H5 Chicago, IL, USA",
+                "global_code": "86HJV9XG+H5"
+            },
+            "rating": 4.7,
+            "reference": "ChIJq7TXl1PTD4gRMrqUy30hMMo",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 406,
+            "vicinity": "126 East Chestnut Street, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.8880144,
+                    "lng": -87.62354739999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.8894585802915,
+                        "lng": -87.62221501970849
+                    },
+                    "southwest": {
+                        "lat": 41.8867606197085,
+                        "lng": -87.62491298029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Chicago Architecture Center",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110681576501477808285\">Virtualix Inc.</a>"
+                    ],
+                    "photo_reference": "AdCG2DNoXq1_wQf42fqedl2xpqIv0XoLSpz6Wb0XeSMJOY-9EYNxRH5f8zYeWTyz0gvZsnmATN6_jKHbAMVFWTwbtFZyVd3Mrbo4PEJnWNA-39N07inPCoAw1GTDdB0fnJNCWtKd47_shxypHBnB256nnAy-t_jjP7m_3fis1Eg0QSmuyuhm",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJXWmIuKMsDogRU9zDFF0QQ5M",
+            "plus_code": {
+                "compound_code": "V9QG+6H Chicago, IL, USA",
+                "global_code": "86HJV9QG+6H"
+            },
+            "price_level": 2,
+            "rating": 4.7,
+            "reference": "ChIJXWmIuKMsDogRU9zDFF0QQ5M",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 1842,
+            "vicinity": "111 East Wacker Drive, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.8874566,
+                    "lng": -87.6295297
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.8889612302915,
+                        "lng": -87.6282235197085
+                    },
+                    "southwest": {
+                        "lat": 41.8862632697085,
+                        "lng": -87.63092148029152
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Dearborn Street Bridge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 12000,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/108941955908346747295\">Mark Grechanik</a>"
+                    ],
+                    "photo_reference": "AdCG2DPfdv5oZY8PC9BTEQDegxODS6H9EKMJdOo4f5l3rkrXApqgfWgt-URnl173xD3UNEZeQjRjyG1AhXKdbJhKbxqSDnDsrJ74fXYyjFwFb4RXcSZVczf8ky1vgFTr5cvCoIVnrLWiUr5fgTxO22z_XcNusXa9dlQdS39xgugoQ81ZC1-w",
+                    "width": 9000
+                }
+            ],
+            "place_id": "ChIJdajrNrAsDogRyBKPsZKlwOs",
+            "plus_code": {
+                "compound_code": "V9PC+X5 Chicago, IL, USA",
+                "global_code": "86HJV9PC+X5"
+            },
+            "rating": 4.7,
+            "reference": "ChIJdajrNrAsDogRyBKPsZKlwOs",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 147,
+            "vicinity": "Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.9169561,
+                    "lng": -87.66427639999999
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.91824473029151,
+                        "lng": -87.66307426970849
+                    },
+                    "southwest": {
+                        "lat": 41.91554676970851,
+                        "lng": -87.6657722302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Clybourn Place Bridge",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3269,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/107733723947519659258\">Ethan Siegler</a>"
+                    ],
+                    "photo_reference": "AdCG2DO51DSPxcvO2gBS_hK1EPLAgsYBIOCd-ThrE3IEn6BPcsvqI7jNhwqH8h1Azrzl6jjZ5bAV2LuXkZeh-xvgJ_rWm_AUEIhCY9v6VnQ9O3vPSxh5dWOZwVy2Z9TWmSllt67p7knYknaV9SOm1sgjtK5KD6D_SJU8LFun93rWV0zsh5dS",
+                    "width": 4894
+                }
+            ],
+            "place_id": "ChIJYwEWQOfSD4gRENUThC3iJ-8",
+            "plus_code": {
+                "compound_code": "W88P+Q7 Chicago, IL, USA",
+                "global_code": "86HJW88P+Q7"
+            },
+            "rating": 4.7,
+            "reference": "ChIJYwEWQOfSD4gRENUThC3iJ-8",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 15,
+            "vicinity": "Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.8186024,
+                    "lng": -87.6484983
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.8200105302915,
+                        "lng": -87.6471501697085
+                    },
+                    "southwest": {
+                        "lat": 41.8173125697085,
+                        "lng": -87.6498481302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Union Stockyards Gate",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2889,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/111333707080168110198\">___C___</a>"
+                    ],
+                    "photo_reference": "AdCG2DM4M08OiniR3PGYNDJAg-AHI6Tf-Fr3tJFVcH30-w30p7CxLFnwaWUIy_jHy4srhYUIgWTpbr5-80ll_ervOwXLu_svXy3bc16lchryzu3QsMvyyOIcok5TottQ5lw7sMsXuONLsnY9LQAW1u9OjE3tjF0jFpAlMte0_EOwmTnvCGBE",
+                    "width": 3853
+                }
+            ],
+            "place_id": "ChIJmYlrtSAsDogRAdD1VGXy7vU",
+            "plus_code": {
+                "compound_code": "R992+CJ Chicago, IL, USA",
+                "global_code": "86HJR992+CJ"
+            },
+            "rating": 4.5,
+            "reference": "ChIJmYlrtSAsDogRAdD1VGXy7vU",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 170,
+            "vicinity": "W Exchange Ave &, South Peoria Street, Chicago"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 41.89732900000001,
+                    "lng": -87.6249946
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.8986851302915,
+                        "lng": -87.6235735697085
+                    },
+                    "southwest": {
+                        "lat": 41.8959871697085,
+                        "lng": -87.6262715302915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Loyola University Museum of Art (LUMA)",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 2430,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/110247471112053097178\">Izzy Kapetanovic</a>"
+                    ],
+                    "photo_reference": "AdCG2DOmDAB1k5OOTmyk4STGe3P7l52TaGceHiVQzDl42MDarfN9BcLF2hGyltHPVarUQtv8NJz1YDH7AEA-b21dQjiRdEQVFb-HCnWf3Ljb4lzVQadXvcNkB6DiQRaYccEV-HWm3OTX92dDxVPLIojpLisxghjtq6alC0myaYmcB-l-xH0u",
+                    "width": 3623
+                }
+            ],
+            "place_id": "ChIJi8YebArRD4gRm9Vy8SkvnqA",
+            "plus_code": {
+                "compound_code": "V9WG+W2 Chicago, IL, USA",
+                "global_code": "86HJV9WG+W2"
+            },
+            "rating": 4.3,
+            "reference": "ChIJi8YebArRD4gRm9Vy8SkvnqA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 114,
+            "vicinity": "820 North Michigan Avenue, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.871626,
+                    "lng": -87.647437
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.8729619802915,
+                        "lng": -87.6459276697085
+                    },
+                    "southwest": {
+                        "lat": 41.8702640197085,
+                        "lng": -87.64862563029152
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Jane Addams Hull-House Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1325,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/113887922638917576959\">James Rodriguez</a>"
+                    ],
+                    "photo_reference": "AdCG2DNAdaNKzDq8akpL2QO0EPK3tE7rCXETqD_WZaToMw1od5oWXtKeJXOqjh6em6wAkEGjBbgpIK_NOyhfJmdfWMMQUaFT0DpfAkmuLG1rNaORshwSFV271K7a7Faz8gKadWzDmUEHKeusl_OTdEHMQI0I_ghPKb5q-nerlGDJeYqZn12n",
+                    "width": 2000
+                }
+            ],
+            "place_id": "ChIJTd2xv-gsDogRwsjfQO5V1eE",
+            "plus_code": {
+                "compound_code": "V9C3+M2 Chicago, IL, USA",
+                "global_code": "86HJV9C3+M2"
+            },
+            "rating": 4.7,
+            "reference": "ChIJTd2xv-gsDogRwsjfQO5V1eE",
+            "scope": "GOOGLE",
+            "types": [
+                "museum",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 223,
+            "vicinity": "800 South Halsted Street, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.78920350000001,
+                    "lng": -87.5974889
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.7906056302915,
+                        "lng": -87.5964137197085
+                    },
+                    "southwest": {
+                        "lat": 41.7879076697085,
+                        "lng": -87.5991116802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Institute for the Study of Ancient Cultures Museum",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 3024,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114295659246243365888\">You Cheng</a>"
+                    ],
+                    "photo_reference": "AdCG2DNd9hNHLlisVnP3o4rDJ-uKOzkk-OztJSg5lQtGe4kDrFIddXLf4jilrmg4Lm5dSwpnlmYt16IpU6IzszJI26Yb2VQXEPsmAMk3G2f4XUAzTi6F-gnnPuWPLOBuONusC1pOovd-Fh2MYz_u2Qs7NNfvDbG3AGiuHBcOHqoErbikUOI1",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ27kGFRYpDogRJo7kny13uNA",
+            "plus_code": {
+                "compound_code": "QCQ3+M2 Chicago, IL, USA",
+                "global_code": "86HJQCQ3+M2"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ27kGFRYpDogRJo7kny13uNA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "museum",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 386,
+            "vicinity": "1155 East 58th Street, Chicago"
+        },
+        {
+            "business_status": "CLOSED_TEMPORARILY",
+            "geometry": {
+                "location": {
+                    "lat": 41.8953619,
+                    "lng": -87.6545988
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.8968058802915,
+                        "lng": -87.6531443197085
+                    },
+                    "southwest": {
+                        "lat": 41.8941079197085,
+                        "lng": -87.65584228029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/museum-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/museum_pinlet",
+            "name": "Intuit: The Center for Intuitive and Outsider Art",
+            "permanently_closed": true,
+            "photos": [
+                {
+                    "height": 570,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/114350136462923888109\">Intuit: The Center for Intuitive and Outsider Art</a>"
+                    ],
+                    "photo_reference": "AdCG2DOdSfHSAJIvHGoiSd5bu7LDi3eL5K6xoAIPwnh2OrnuUbuJkZO0C4_nyYEvJra5ubJK0t72hum25uWt2_2UeEAhk_WoTk-xqci3vnSRAwRFMcUv8Mv4cq5y9ChMIA0RdVj3Fwb8hvHgnivI82tVwktGm0HpXLXPGdlqejyLuDZeDLed",
+                    "width": 817
+                }
+            ],
+            "place_id": "ChIJ9R0_ytQsDogRmywSXRu1VeQ",
+            "plus_code": {
+                "compound_code": "V8WW+45 Chicago, IL, USA",
+                "global_code": "86HJV8WW+45"
+            },
+            "rating": 4.7,
+            "reference": "ChIJ9R0_ytQsDogRmywSXRu1VeQ",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "art_gallery",
+                "museum",
+                "store",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 178,
+            "vicinity": "756 North Milwaukee Avenue, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.9238673,
+                    "lng": -87.6352526
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.9251760302915,
+                        "lng": -87.6341683197085
+                    },
+                    "southwest": {
+                        "lat": 41.9224780697085,
+                        "lng": -87.6368662802915
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Lincoln Park Conservatory",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 705,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/115177043749523100704\">David Ohmer</a>"
+                    ],
+                    "photo_reference": "AdCG2DMvTiClnJAI93R4ukn7ufZj12PWnKWxLQAsJy3Ygs_7ODrpJv9oaZ1JUmLA8jthFdfYm7a-izNsXLNxhd3NzdltU1T4HllaXnYNGfWRcrKhvuX30Paqt-DcHpzKqGuPeb4HwdhXBR61dRK_IGto7wTAYP_BVXVqMUpuDVdo458XZRrb",
+                    "width": 1000
+                }
+            ],
+            "place_id": "ChIJ4Zq9gHLTD4gR2nsgOZj2p_w",
+            "plus_code": {
+                "compound_code": "W9F7+GV Chicago, IL, USA",
+                "global_code": "86HJW9F7+GV"
+            },
+            "rating": 4.8,
+            "reference": "ChIJ4Zq9gHLTD4gR2nsgOZj2p_w",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "park",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 3540,
+            "vicinity": "2391 North Stockton Drive, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.9280745,
+                    "lng": -87.64614240000002
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.9293180802915,
+                        "lng": -87.64476456970851
+                    },
+                    "southwest": {
+                        "lat": 41.9266201197085,
+                        "lng": -87.64746253029152
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/worship_general-71.png",
+            "icon_background_color": "#7B9EB0",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/worship_christian_pinlet",
+            "name": "Saint Clement Church",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 1363,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104675980866184333260\">Saint Clement Church</a>"
+                    ],
+                    "photo_reference": "AdCG2DOohhIb19NpQvXisG5qwvhfizO9QqH_Ysjh7Fv7yFccLxDmHsBuI9D6JdkFx-22MvUsMGUJZywOhkzekjzCLB_Gw3NndUNC67PnF6C5_OBtgibd4mVLsxfd70YkrQPxRhJaMPNpjurIVkQdMFLME4lRLIndPMXZiSHxPFGDNa1H-N2e",
+                    "width": 2048
+                }
+            ],
+            "place_id": "ChIJDaUcAg_TD4gRL9eCVCK_LVU",
+            "plus_code": {
+                "compound_code": "W9H3+6G Chicago, IL, USA",
+                "global_code": "86HJW9H3+6G"
+            },
+            "rating": 4.7,
+            "reference": "ChIJDaUcAg_TD4gRL9eCVCK_LVU",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "church",
+                "place_of_worship",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 260,
+            "vicinity": "642 West Deming Place, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.8918633,
+                    "lng": -87.6050944
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.89304393029149,
+                        "lng": -87.5975502
+                    },
+                    "southwest": {
+                        "lat": 41.8903459697085,
+                        "lng": -87.61417900000001
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+            "icon_background_color": "#13B5C7",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+            "name": "Navy Pier",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 2268,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/100916269495895766748\">Krunal Bhagat</a>"
+                    ],
+                    "photo_reference": "AdCG2DObGwbVlOuTvQuZph4mZV4T3aIveHbZahFhp0OgnaUTbtnj_F4jygEhV_QlwNLd-z7gbCzzAIqlQx04FCQnaktVXlQcPubYbyo83HCHECm8wGJvjrVE9VvTjBBv4U699ZDEQ-T2RNX5eZmqhRkvCfFeReW22_HjxaSLsjVvvfsD1bqV",
+                    "width": 4032
+                }
+            ],
+            "place_id": "ChIJ2y7xkU0rDogR3KSIsJbbrNA",
+            "plus_code": {
+                "compound_code": "V9RV+PX Chicago, IL, USA",
+                "global_code": "86HJV9RV+PX"
+            },
+            "rating": 4.6,
+            "reference": "ChIJ2y7xkU0rDogR3KSIsJbbrNA",
+            "scope": "GOOGLE",
+            "types": [
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 78665,
+            "vicinity": "600 East Grand Avenue, Chicago"
+        },
+        {
+            "business_status": "OPERATIONAL",
+            "geometry": {
+                "location": {
+                    "lat": 41.8862729,
+                    "lng": -87.7172554
+                },
+                "viewport": {
+                    "northeast": {
+                        "lat": 41.88756275000001,
+                        "lng": -87.7155949697085
+                    },
+                    "southwest": {
+                        "lat": 41.88461574999999,
+                        "lng": -87.71829293029151
+                    }
+                }
+            },
+            "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/park-71.png",
+            "icon_background_color": "#4DB546",
+            "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/tree_pinlet",
+            "name": "Garfield Park Conservatory",
+            "opening_hours": {
+                "open_now": true
+            },
+            "photos": [
+                {
+                    "height": 4080,
+                    "html_attributions": [
+                        "<a href=\"https://maps.google.com/maps/contrib/104344963120240178031\">MM</a>"
+                    ],
+                    "photo_reference": "AdCG2DNs0scae4QFGCCur9ACB7icqP6U0bZByX9bXbAlMvVldT5qt1yMQ6xxLirQhuHE8IGVL-_nffFUyMrDv_W8HRRhIU3NfMtBoFUMFUxbHexp48dvpNWGRZ4OrSZ-IXU4Acth4skaIDfbPI82TDuQ8yxkLly-pShKvAD0ZM2VmRkNi1Vd",
+                    "width": 3072
+                }
+            ],
+            "place_id": "ChIJaQUY87cyDogRqoNIaIN0IdI",
+            "plus_code": {
+                "compound_code": "V7PM+G3 Chicago, IL, USA",
+                "global_code": "86HJV7PM+G3"
+            },
+            "rating": 4.8,
+            "reference": "ChIJaQUY87cyDogRqoNIaIN0IdI",
+            "scope": "GOOGLE",
+            "types": [
+                "park",
+                "tourist_attraction",
+                "point_of_interest",
+                "establishment"
+            ],
+            "user_ratings_total": 9308,
+            "vicinity": "300 North Central Park Avenue, Chicago"
+        }
+    ],
+    "status": "OK"
+}
