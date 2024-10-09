@@ -1,0 +1,241 @@
+{
+    "success":true,
+    "biz_id":"yTynZugQRl5GVVFAIEAtfQ",
+    "url":"https://www.yelp.com/biz/smyrna-charlottesville",
+    "page":1,
+    "total_results":74,
+    "no_of_pages":8,
+    "result_count":10,
+    "reviews":[
+       {
+          "id":"2GbAe0hvIVo2y1CcsdVf_w",
+          "date":"2024-09-17",
+          "rating":5,
+          "review_title":"",
+          "review_text":"One of the best meals in Charlottesville. From the bread to the seafood, the dumplings to the burger, everything is so incredibly good. Then add a great bar program and honestly, I can't wait to come back. This is a must eat place.",
+          "review_url":"https://www.yelp.com?hrid=2GbAe0hvIVo2y1CcsdVf_w",
+          "lang":"en",
+          "author_avatar":"https://s3-media0.fl.yelpcdn.com/photo/46tdhym31lcA2xn7Die3BQ/60s.jpg",
+          "author_url":"https://www.yelp.com/user_details?userid=us1yqiqi4QMz7zr53sBaIQ",
+          "author_name":"Brandon B.",
+          "meta_data":{
+             "author_contributions":219,
+             "feedback":{
+                "useful":0,
+                "funny":0,
+                "cool":1
+             }
+          },
+          "location":"Washington, DC",
+          "response":null
+       },
+       {
+          "id":"ZHI1w6UlZKFBhegYu64TgA",
+          "date":"2024-09-09",
+          "rating":5,
+          "review_title":"",
+          "review_text":"We've been here a few times, and I've loved all of the dishes I've had so far. For our first time here, our server was so helpful in guiding us on what to choose (for both food and mixed drinks). As a vegetarian, my favorite dishes are the manti dumplings and beet salad. The vegetable turlu is also delicious. I don't think you can go wrong with anything on their menu.\n\nAnd definitely have a mixed drink or two. They are yummy.",
+          "review_url":"https://www.yelp.com?hrid=ZHI1w6UlZKFBhegYu64TgA",
+          "lang":"en",
+          "author_avatar":"https://s3-media0.fl.yelpcdn.com/photo/EZTz8_y-qcHYtH-D7sRDpQ/60s.jpg",
+          "author_url":"https://www.yelp.com/user_details?userid=zixDJQvIp35KXjZNjb0WFw",
+          "author_name":"Traci W.",
+          "meta_data":{
+             "author_contributions":20,
+             "feedback":{
+                "useful":0,
+                "funny":0,
+                "cool":0
+             }
+          },
+          "location":"Charlottesville, VA",
+          "response":null
+       },
+       {
+          "id":"6NtaAo-YqWZzQPlbdVMqVw",
+          "date":"2024-09-09",
+          "rating":5,
+          "review_title":"",
+          "review_text":"Wonderful experience. The service was fantastic and the food was even better! We shared the charred eggplant and each tried the manti dumplings and both were incredible. They also have a great cocktail list-- I was having trouble deciding what to try but went with the gimlet, which was excellent. Perfect spot for a special occasion!",
+          "review_url":"https://www.yelp.com?hrid=6NtaAo-YqWZzQPlbdVMqVw",
+          "lang":"en",
+          "author_avatar":"https://s3-media0.fl.yelpcdn.com/photo/d9-gdgocqOsGWldf6yS0Kg/60s.jpg",
+          "author_url":"https://www.yelp.com/user_details?userid=AOGY5x5_fOon9rhwtSOykg",
+          "author_name":"Payton W.",
+          "meta_data":{
+             "author_contributions":45,
+             "feedback":{
+                "useful":0,
+                "funny":0,
+                "cool":0
+             }
+          },
+          "location":"Glen Allen, VA",
+          "response":null
+       },
+       {
+          "id":"iDPUGKJ7xKNo7l-UXzv6sg",
+          "date":"2024-09-07",
+          "rating":5,
+          "review_title":"",
+          "review_text":"Wow. Everything we tried was beyond fantastic! Great service as well. Awards in their future.",
+          "review_url":"https://www.yelp.com?hrid=iDPUGKJ7xKNo7l-UXzv6sg",
+          "lang":"en",
+          "author_avatar":"https://s3-media0.fl.yelpcdn.com/assets/srv0/yelp_styleguide/514f6997a318/assets/img/default_avatars/user_60_square.png",
+          "author_url":"https://www.yelp.com/user_details?userid=oZ7WzoLT5GLYJ0LubM4Kwg",
+          "author_name":"Alec B.",
+          "meta_data":{
+             "author_contributions":1,
+             "feedback":{
+                "useful":0,
+                "funny":0,
+                "cool":0
+             }
+          },
+          "location":"Melbourne, FL",
+          "response":null
+       },
+       {
+          "id":"dFx75dH5_3isvoDTAZ1Lhg",
+          "date":"2024-08-18",
+          "rating":5,
+          "review_title":"",
+          "review_text":"Absolutely fantastic! The service from hostess to wait staff was top notch and the food was absolutely amazing.  We'll be back every time we visit the area.",
+          "review_url":"https://www.yelp.com?hrid=dFx75dH5_3isvoDTAZ1Lhg",
+          "lang":"en",
+          "author_avatar":"https://s3-media0.fl.yelpcdn.com/photo/hGaHfBNqWCzJsC5AWl5ntg/60s.jpg",
+          "author_url":"https://www.yelp.com/user_details?userid=0CFz8e5VxTonqS0nGtKMrg",
+          "author_name":"Mark M.",
+          "meta_data":{
+             "author_contributions":10,
+             "feedback":{
+                "useful":0,
+                "funny":0,
+                "cool":0
+             }
+          },
+          "location":"Cary, NC",
+          "response":null
+       },
+       {
+          "id":"U8nTQx85l54oWryKLq663Q",
+          "date":"2024-08-03",
+          "rating":5,
+          "review_title":"",
+          "review_text":"We had a blast here! The server (a guy with glasses - can't remember his name ) totally matched our vibes and even engaged in a game of \"what vegetable could you eat the most of\" with us. Each dish packed a punch of flavor, nuance, and aesthetically pleasing - trust us, we tried a lot! Besides the obvious (dip trio, dumplings) the octopus is a MUST try. Mocktails and beverages all delivered. We were sat promptly at our reservation time. A gem!",
+          "review_url":"https://www.yelp.com?hrid=U8nTQx85l54oWryKLq663Q",
+          "lang":"en",
+          "author_avatar":"https://s3-media0.fl.yelpcdn.com/photo/ZQGPn20xzKfiFaWHOxtKxA/60s.jpg",
+          "author_url":"https://www.yelp.com/user_details?userid=ymlqD-qrxY1dkCuX0jhXNA",
+          "author_name":"Kate S.",
+          "meta_data":{
+             "author_contributions":111,
+             "feedback":{
+                "useful":0,
+                "funny":0,
+                "cool":0
+             }
+          },
+          "location":"Houston, TX",
+          "response":null
+       },
+       {
+          "id":"gvMt8spA1HTWqLiU44FY1Q",
+          "date":"2024-07-24",
+          "rating":5,
+          "review_title":"",
+          "review_text":"One of my top two places to eat in CVille so far. Great food, service, and cocktails in a \"just right\" environment.",
+          "review_url":"https://www.yelp.com?hrid=gvMt8spA1HTWqLiU44FY1Q",
+          "lang":"en",
+          "author_avatar":"https://s3-media0.fl.yelpcdn.com/photo/KtN7VJI9DiLtwEE1GYoz3g/60s.jpg",
+          "author_url":"https://www.yelp.com/user_details?userid=wd6V3PhYvkCNVEAunR1r2A",
+          "author_name":"Kim V.",
+          "meta_data":{
+             "author_contributions":20,
+             "feedback":{
+                "useful":0,
+                "funny":0,
+                "cool":0
+             }
+          },
+          "location":"Westborough, MA",
+          "response":null
+       },
+       {
+          "id":"FiWDvWWCvsQ4vuCke4MHdw",
+          "date":"2024-07-22",
+          "rating":5,
+          "review_title":"",
+          "review_text":"Fantastic!!! Authentic!\nTurkish delight to the max. We had the best experience!\nOur server was so sweet, genuinely interested in making our visit pleasant, very attentive.\nExquisite flavors!!! We absolutely loved every dish and savored every bite!\nIf we lived in this city, it would be our regular spot. Highly recommend!",
+          "review_url":"https://www.yelp.com?hrid=FiWDvWWCvsQ4vuCke4MHdw",
+          "lang":"en",
+          "author_avatar":"https://s3-media0.fl.yelpcdn.com/photo/Nd_9hF-CDhtG5Uv4-3nI6Q/60s.jpg",
+          "author_url":"https://www.yelp.com/user_details?userid=dDYX4iQmmmy-N2i6-Hr72w",
+          "author_name":"Rodin Z.",
+          "meta_data":{
+             "author_contributions":6,
+             "feedback":{
+                "useful":0,
+                "funny":0,
+                "cool":0
+             }
+          },
+          "location":"Pantops, VA",
+          "response":null
+       },
+       {
+          "id":"-5qR3iicYF-IeMM8wCW5gg",
+          "date":"2024-07-10",
+          "rating":5,
+          "review_title":"",
+          "review_text":"This was an incredible meal from beginning to end. The staff are so friendly and helpful without being pushy. They have creative and delicious cocktails. I got a Smokey Mountain which had smokey whiskey, amaro, and rosemary among other things. Delightful. We ended up sharing a goat cheese appetizer with perfect bread, lamb meatballs served with a dill yogurt sauce and incredible dumplings called manti. I had never had them before and would definitely get again. I love that the portions are perfectly sized. We didn't have leftovers and we didn't over eat too much. Dessert was a baklava cheesecake. Wow! One of the best meals I've had in a while.",
+          "review_url":"https://www.yelp.com?hrid=-5qR3iicYF-IeMM8wCW5gg",
+          "lang":"en",
+          "author_avatar":"https://s3-media0.fl.yelpcdn.com/photo/0Ns2blnkc2so7WuZYvr4Xg/60s.jpg",
+          "author_url":"https://www.yelp.com/user_details?userid=sSmiFdOZleZnE3hpsqcXaA",
+          "author_name":"Charles C.",
+          "meta_data":{
+             "author_contributions":38,
+             "feedback":{
+                "useful":0,
+                "funny":0,
+                "cool":0
+             }
+          },
+          "location":"DE, DE",
+          "response":null
+       },
+       {
+          "id":"d2RWFoMkgp3maK9-nXpwTg",
+          "date":"2024-07-08",
+          "rating":5,
+          "review_title":"",
+          "review_text":"I had read good things about Smyrna and was curious to try it. Every dish was done uniquely and deliciously. My table shared a bunch of dishes, small and large and we were impressed with every one of them. The waitstaff and busser were very attentive and friendly. Harun was our server and was very helpful. Would recommend to anyone 10/10.",
+          "review_url":"https://www.yelp.com?hrid=d2RWFoMkgp3maK9-nXpwTg",
+          "lang":"en",
+          "author_avatar":"https://s3-media0.fl.yelpcdn.com/photo/mubJSn3gmdXD0KMDLmSgmQ/60s.jpg",
+          "author_url":"https://www.yelp.com/user_details?userid=45feXKM4Ro960OTASd9spw",
+          "author_name":"Tricia W.",
+          "meta_data":{
+             "author_contributions":107,
+             "feedback":{
+                "useful":0,
+                "funny":0,
+                "cool":0
+             }
+          },
+          "location":"San Diego, CA",
+          "response":null
+       }
+    ],
+    "meta_data":{
+       "lang":"en",
+       "lang_stats":[
+          {
+             "code":"en",
+             "count":74
+          }
+       ]
+    },
+    "remaining_credits":990
+ }
