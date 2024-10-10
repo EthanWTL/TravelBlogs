@@ -51,6 +51,13 @@ coverage.xml
 .pytest_cache/
 cover/
 
+#Datasets
+Datasets/yelp_academic_dataset_business.json
+Datasets/yelp_academic_dataset_checkin.json
+Datasets/yelp_academic_dataset_review.json
+Datasets/yelp_academic_dataset_tip.json
+Datasets/yelp_academic_dataset_user.json
+
 # Translations
 *.mo
 *.pot
